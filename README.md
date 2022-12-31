@@ -1,5 +1,5 @@
 # Comparative Analysis of Skin Cancer (Benign vs. Malignant) Detection Using Convolutional Neural Networks
-![alt txt](https://raw.githubusercontent.com/Sajid-Bit/AI/main/image2.avif)
+![alt txt](https://github.com/Sajid-Bit/Skin-Cancer/blob/main/images/image2.avif)
 
 As a content creator and educator, I am constantly looking for awesome projects that I find useful and share them with the broader community. I am not the only one doing this. There are lots of people that share fun projects that they find interesting and useful. This is how projects go viral and gain lots of visibility. From my observation, there are a few components that make certain machine learning projects stand out from the rest. If your goal is to build a portfolio or create impactful and unique projects for the community, here are a few areas you can focus on to make your projects compelling and stand out from the rest.
 
