@@ -45,6 +45,7 @@ Figure 2 is labelled as benign **melanoma** in the dataset.
   <img alt="benign melanoma" src="https://github.com/Sajid-Bit/Skin-Cancer/blob/main/Data/benign/ISIC_0052212.jpg" width="30%">
 </p>
 
+Figure 2 is labelled as **malignant melanom**a in the dataset.
 
  
  
