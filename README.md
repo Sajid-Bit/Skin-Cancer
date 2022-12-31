@@ -75,4 +75,4 @@ In a small size dataset, image augmentation is required to avoid overfitting the
 
 ![alt txt](https://github.com/Sajid-Bit/Skin-Cancer/blob/main/Data/image_sgmtion%5C.jpg)
  
- 
+ ># overview into our data augmentation techniques using the python library albumentations
