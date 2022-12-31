@@ -28,8 +28,14 @@ Neural networks are one of the most beautiful programming paradigms ever devised
  # 2 - SVM model
 SVM has three major qualities when used to predict the regression equation. To begin, SVM uses a collection of linear functions specified in a high-dimensional area to calculate the regression. After that, SVM uses a Vapnik-insensitive loss function to evaluate risk and perform regression estimation via risk minimization. Finally, SVM employs a risk function that combines empirical error with a regularization component obtained from the Selectively Reliable Multicast Protocol (SRMP) . For classification problems, SVM works as a supervised learning-based binary classifier that outperforms other classification algorithms . An SVM distinguishes between two classes by creating a classification hyperplane in a high-dimensional feature space.
 ![alt txt](https://github.com/Sajid-Bit/Skin-Cancer/blob/main/images/svm.jpg)
+
+
+
+# Dataset
+
+The project dataset is openly available on Kaggle (SIIM-ISIC Melanoma Classification, 2020). It consists of around forty-four thousand images from the same patient sampled over different weeks and stages. The dataset consists of images in various file format. The raw images are in DICOM (Digital Imaging and COmmunications in Medicine), containing patient metadata and skin lesion images. DICOM is a commonly used file format in medical imaging. Additionally, the dataset also includes images in TFRECORDS (TensorFlow Records) and JPEG format.
  
- 
+> Simple of the Data set
  
  
  
