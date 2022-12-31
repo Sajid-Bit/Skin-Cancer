@@ -19,6 +19,6 @@ The `VGG16 model` has given us the highest accuracy of 93.18%.
 # 2. Work process of the system block diagram
 This system begins by preprocessing data taken from Google Drive into its system. Then data is normalized by null value reduction, image resizing, labeling images, and many more. Normalizing data is one of the most important factors in this project as it helps to decrease value loss. After processing, the data system is trained with six different neural network models (SVM, VGG16, ResNet50, sequential 1/2/3). After training data with trained images, it is fine-tuned to get the maximum accuracy. One of the most important tasks in this process is to check the overfitting and underfitting of these models. When the system is ready for the final process, test data is used to predict and get an accurate output. This work process is maintained throughout the study.
 
-![https://github.com/Sajid-Bit/Skin-Cancer/blob/main/images/image4.jpg)
+![test](https://github.com/Sajid-Bit/Skin-Cancer/blob/main/images/image4.jpg)
  
 
