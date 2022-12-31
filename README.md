@@ -23,6 +23,7 @@ This system begins by preprocessing data taken from Google Drive into its system
 
 # 1 - Convolutional Neural Network (CNN)
 Neural networks are one of the most beautiful programming paradigms ever devised. Anyone can instruct the computer what to do in the traditional method of programming, breaking large issues down into many small, carefully defined jobs that the computer can readily complete. In a neural network, on the other hand, users do not tell the computer how to solve their problems [11]. Rather, it learns from observational data and comes up with its own solution to the problem. CNN's weight-sharing function, which reduces the number of network parameters that can be trained and helps to avoid overfitting by the model and increase generalization, is one of the key reasons for considering CNN in such a circumstance.
+
 ![alt txt](https://github.com/Sajid-Bit/Skin-Cancer/blob/main/images/JHE2021-5895156.002.jpg)
 
  # 2 - SVM model
@@ -36,6 +37,15 @@ SVM has three major qualities when used to predict the regression equation. To b
 The project dataset is openly available on Kaggle (SIIM-ISIC Melanoma Classification, 2020). It consists of around forty-four thousand images from the same patient sampled over different weeks and stages. The dataset consists of images in various file format. The raw images are in DICOM (Digital Imaging and COmmunications in Medicine), containing patient metadata and skin lesion images. DICOM is a commonly used file format in medical imaging. Additionally, the dataset also includes images in TFRECORDS (TensorFlow Records) and JPEG format.
  
 > Simple of the Data set
+
+Figure 2 is labelled as benign **melanoma** in the dataset.
+<p align="center">
+  <img alt="benign melanoma" src="./Data/Sample%20Images/ISIC_0052212.jpg" width="30%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="benign melanoma" src="./Data/Sample%20Images/ISIC_0074542.jpg" width="30%">
+</p>
+
+
  
  
  
