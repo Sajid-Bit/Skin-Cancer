@@ -72,7 +72,7 @@ In a small size dataset, image augmentation is required to avoid overfitting the
 14. **HueSaturationValue**: A pixel-level transformation that randomly changes hue, saturation and value of the input image.
 15. **ShiftScaleRotate**: A spatial level transformation that randomly applies affine transforms: translate, scale and rotate the input. The allow scale and rotate the image by certain angles
 16. **Cutout**: A spatial level transformation that does a rectangular cut in the image. This transformation helps the network to focus on the different areas in the images.
- 
- 
+
+![alt txt](https://github.com/Sajid-Bit/Skin-Cancer/blob/main/images/image2.avif)
  
  
